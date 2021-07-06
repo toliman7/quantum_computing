@@ -2,6 +2,7 @@
 Quantum Computing jupyer notebooks
 
 
+
 ## Prerequists to run the notebook
 
 The best way is to start with a python virtual environment
@@ -22,4 +23,7 @@ pip install qiskit jupyter
 jupyter notebook
 ```
 
-This will open the home screen of jupyter from which you can select and open the file
+This will open the home screen of jupyter from which you can select and open the file.
+
+
+Daniel
