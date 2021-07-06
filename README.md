@@ -13,7 +13,7 @@ python3 -m venv
 Please install qiskit and dependent libraries
 
 ```
-pip install qiskit jupyter
+pip install qiskit jupyter kaleidoscope
 ```
 
 ## To run the notebook
